@@ -1,0 +1,1 @@
+gcc -Wall -L/usr/local/inc -c zad1.c && gcc -L/usr/local/lib zad1.o -lgsl -lgslcblas -lm
